@@ -1,0 +1,10 @@
+{
+    "name": "clinic/project",
+    "authors": [
+        {
+            "name": "deep",
+            "email": "mohameddepooo@gmail.com"
+        }
+    ],
+    "require": {}
+}
